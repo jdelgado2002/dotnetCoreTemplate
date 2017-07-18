@@ -1,8 +1,0 @@
-/home/jdelgado/dev/todoApi/bin/Debug/netcoreapp1.1/todoApi.deps.json
-/home/jdelgado/dev/todoApi/bin/Debug/netcoreapp1.1/todoApi.runtimeconfig.json
-/home/jdelgado/dev/todoApi/bin/Debug/netcoreapp1.1/todoApi.runtimeconfig.dev.json
-/home/jdelgado/dev/todoApi/bin/Debug/netcoreapp1.1/todoApi.dll
-/home/jdelgado/dev/todoApi/bin/Debug/netcoreapp1.1/todoApi.pdb
-/home/jdelgado/dev/todoApi/obj/Debug/netcoreapp1.1/todoApi.AssemblyInfo.cs
-/home/jdelgado/dev/todoApi/obj/Debug/netcoreapp1.1/todoApi.dll
-/home/jdelgado/dev/todoApi/obj/Debug/netcoreapp1.1/todoApi.pdb
